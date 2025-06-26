@@ -1,6 +1,8 @@
 -----------
 ### Portfolio https://mohamedmzd0.github.io/portfolio/
+### Summary https://github.com/mohamedmzd0
 
+-----------
 # 📦 Android Order Tracker App
 
 An Android app built with **Jetpack Compose** using **MVI architecture**, **Clean Architecture**, **SOLID principles**, and **modular design**.  
